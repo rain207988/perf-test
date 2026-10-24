@@ -1,0 +1,16 @@
+# 运行产物不入库：jtl 结果、HTML 报告、JMeter 运行日志
+results/
+report/
+jmeter.log
+*.jtl
+*.log
+
+# IDE / 系统
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
